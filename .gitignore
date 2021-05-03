@@ -10,4 +10,5 @@ Cargo.lock
 **/*.rs.bk
 
 # Project-specific ignores
-HelloWorld/target/
+*/.vscode/
+*/target/
